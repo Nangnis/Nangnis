@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,3,4,10,30&height=200&section=header&text=Naeun%20Shin&animation=twinkling&fontColor=ffffff&fontSize=50&fontAlign=70&fontAlignY=35&rotate=13"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=Naeun%20Shin&animation=twinkling&fontColor=ffffff&fontSize=50&fontAlign=70&fontAlignY=35&rotate=13"/>
 </p>
 
 <p align="center">
