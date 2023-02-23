@@ -4,7 +4,7 @@
 
 <div align=center>
 <p align="center">
-<b>웹 개발자</b>를 꿈꾸는 코린이<br>
+<b>프론트앤드 개발자</b>를 꿈꾸는 코린이<br>
 <h3 align="center">신나은:woman:</h3>
 </p>
 
